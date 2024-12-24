@@ -69,7 +69,7 @@ A *Simple To-Do List* web page to help you manage your daily tasks efficiently! 
 
 Saurabh Mahto
 
-GitHub: Your Profile
+GitHub: https://github.com/Saurabh-Mahto
 
 
 
